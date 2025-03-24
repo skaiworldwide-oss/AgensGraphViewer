@@ -2,7 +2,7 @@
 
 Web-based user interface that provides visualization of graph data stored in an AgensGraph database. 
 
-This is a sub-project of [AgensGraph](https://github.com/bitnine-oss/agensgraph)
+This is a sub-project of [AgensGraph](https://github.com/skaiworldwide-oss/agensgraph)
 
 # Recommended Node Version & install module
 
